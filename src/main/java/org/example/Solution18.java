@@ -20,7 +20,7 @@ class Solution18 {
         int length = nums.length;
 
         // L 和 R 分别表示左右两侧的乘积列表
-        int[] L = new int[length]
+        int[] L = new int[length];
         int[] R = new int[length];
 
         int[] answer = new int[length];
